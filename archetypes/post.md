@@ -26,8 +26,4 @@ cover:
   caption: ""
   relative: false
   hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/{{ .File.Path }}"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---

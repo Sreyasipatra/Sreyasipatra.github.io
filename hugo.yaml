@@ -29,6 +29,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  social: true
 
   assets:
     favicon: "<valid link to your favicon>"

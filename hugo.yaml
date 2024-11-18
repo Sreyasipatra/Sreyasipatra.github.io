@@ -1,6 +1,7 @@
 baseURL: "https://Sreyasipatra.github.io"
 title: "Sreyasi"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -97,9 +98,10 @@ languages:
     languageName: "English"
     weight: 1
     title: "Sreyasi's Blog"
-    homeInfoParams:
-      Title: "Ello 👋"
-      Content: "This is Sreyasi Patra. This blog is a place for me to share some of my writings. I enjoy writing about a variety of topics, although I don't write frequently. I also love creating art and I have a lot of hobbies. I plan to add so many other contents here, so it might get a bit chaotic. Stay tuned, drink water, and stay hydrated while you suffer!"
+    params:  # Added homeInfoParams under languages.en.params
+      homeInfoParams:
+        Title: "Ello 👋"
+        Content: "This is Sreyasi Patra. This blog is a place for me to share some of my writings. I enjoy writing about a variety of topics, although I don't write frequently. I also love creating art and I have a lot of hobbies. I plan to add so many other contents here, so it might get a bit chaotic. Stay tuned, drink water, and stay hydrated while you suffer!"
     taxonomies:
       category: "categories"
       tag: "tags"
@@ -121,9 +123,10 @@ languages:
     languageName: "বাংলা"
     weight: 2
     title: "শ্রেয়সীর লেখালিখি"
-    homeInfoParams:
-      Title: "হ্যালো, মি শ্রেয়সী"
-      Content: "ইহা হয় আমার লেখালেখি করার জায়গা।"
+    params:  # Added homeInfoParams under languages.bn.params
+      homeInfoParams:
+        Title: "হ্যালো, মি শ্রেয়সী"
+        Content: "ইহা হয় আমার লেখালেখি করার জায়গা।"
     taxonomies:
       category: "categories"
       tag: "tags"

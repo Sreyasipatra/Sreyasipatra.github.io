@@ -3,7 +3,7 @@ title: "AI Marketing Copies Are Bland"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["AI", "Marketing"]
-author: "Your Name"
+author: "Me"
 showToc: true
 TocOpen: false
 hidemeta: false

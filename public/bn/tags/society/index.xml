@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Society on Sreyasi Patra - বাংলা</title>
+    <link>//localhost:1313/bn/tags/society/</link>
+    <description>Recent content in Society on Sreyasi Patra - বাংলা</description>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>bn</language>
+    <lastBuildDate>Thu, 14 Nov 2024 05:46:14 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/bn/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>সহনশীলতা</title>
+      <link>//localhost:1313/bn/posts/women-in-dichotomy/</link>
+      <pubDate>Thu, 14 Nov 2024 05:46:14 +0000</pubDate>
+      <guid>//localhost:1313/bn/posts/women-in-dichotomy/</guid>
+      <description>সমাজ ও সহনশীলতা</description>
+    </item>
+  </channel>
+</rss>

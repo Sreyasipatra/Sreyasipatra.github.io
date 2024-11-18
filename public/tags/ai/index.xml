@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Sreyasi&#39;s Blog</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on Sreyasi&#39;s Blog</description>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Nov 2024 05:46:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Marketing Copies Are Bland</title>
+      <link>http://localhost:1313/posts/ai-marketing-copies-are-bland/</link>
+      <pubDate>Thu, 14 Nov 2024 05:46:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-marketing-copies-are-bland/</guid>
+      <description>A discussion on the lack of originality in AI marketing copies.</description>
+    </item>
+  </channel>
+</rss>

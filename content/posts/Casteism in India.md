@@ -26,7 +26,7 @@ cover:
   caption: ""
   relative: false
   hidden: false
-editPost:
+editPost: false
   URL: "https://github.com/<path_to_repo>/content/posts/Casteism-in-India.md"
   Text: "Suggest Changes"
   appendFilePath: true

@@ -26,10 +26,10 @@ cover:
   caption: ""
   relative: false
   hidden: false
-editPost:
+editPost: false
   URL: "https://github.com/<path_to_repo>/content/posts/AI-Marketing-Copies-Are-Bland.md"
   Text: "Suggest Changes"
-  appendFilePath: true
+  appendFilePath: false
 ---
 
 ## AI Marketing Copies are Bland

@@ -3,7 +3,7 @@ title: "Stanley Cup in India"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["Marketing", "Consumerism", "India"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -26,10 +26,6 @@ cover:
   caption: ""
   relative: false
   hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/Stanley-Cup-in-India.md"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
 
 ## Stanley Cup in India

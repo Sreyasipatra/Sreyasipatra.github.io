@@ -3,7 +3,7 @@ title: "India's Performance in GHI"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["GHI", "India"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -20,16 +20,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: ""
-  alt: ""
-  caption: ""
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/Indias-Performance-in-GHI.md"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
 
 ## India’s Performance in GHI

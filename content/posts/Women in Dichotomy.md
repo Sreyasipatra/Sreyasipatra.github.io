@@ -3,7 +3,7 @@ title: "Women in Dichotomy"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["Gender", "Society", "India"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -20,16 +20,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: ""
-  alt: ""
-  caption: ""
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/Women-in-Dichotomy.md"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
 
 ## Women in Dichotomy

@@ -3,7 +3,7 @@ title: "Role Of Politics In Common People's Lives"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["Politics", "Society"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -20,16 +20,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: ""
-  alt: ""
-  caption: ""
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/Role-of-Politics-in-Common-Peoples-Lives.md"
-  Text: "Suggest Changes"
-  appendFilePath: true
+
 ---
 
 ## The Role of Politics in Common People's Lives

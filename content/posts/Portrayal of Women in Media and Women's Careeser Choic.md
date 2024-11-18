@@ -3,7 +3,7 @@ title: "Portrayal of Women in Media and Women's Careeser Choices"
 date: 2024-11-18T21:01:00
 draft: false
 tags: ["Woman", "media"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: false
 TocOpen: false
 hidemeta: false
@@ -20,16 +20,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-  image: ""
-  alt: ""
-  caption: ""
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/<path_to_repo>/content/posts/Portrayal-of-Women-in-Media.md"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
 
 The portrayal of women in contemporary Indian media plays a crucial role in shaping their career paths and societal expectations. Representation matters; when young women see others in non-traditional roles, they are more likely to aspire to follow their ambitions. Historically, Indian media, particularly daily soaps, has depicted the ideal woman as a homemaker. However, there is a noticeable shift as working women are increasingly represented on television.

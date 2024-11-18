@@ -3,7 +3,7 @@ title: "Casteism In India"
 date: 2024-11-14T05:46:14
 draft: false
 tags: ["Caste", "Discrimination", "India"]
-author: "Your Name"
+author: "Sreyasi"
 showToc: true
 TocOpen: false
 hidemeta: false

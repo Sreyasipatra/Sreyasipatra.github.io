@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/media/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/portrayal-of-women-in-media-and-womens-careeser-choic/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="http://localhost:1313/bn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/woman/</loc>
+    <lastmod>2024-11-18T21:01:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/consciousness/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/creation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/existence/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/existence/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/god/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/metaphysics/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reality/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/short-story/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/the-scream/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-scream/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>
   </url><url>
@@ -44,53 +125,14 @@
     <loc>http://localhost:1313/tags/politics/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-14T05:46:14+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://localhost:1313/bn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/role-of-politics-in-common-peoples-lives/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/society/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-14T05:46:14+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://localhost:1313/bn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/stanley-cup-in-india/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-14T05:46:14+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="http://localhost:1313/bn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/posts/women-in-dichotomy/</loc>
     <lastmod>2024-11-14T05:46:14+00:00</lastmod>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media on Sreyasi&#39;s Blog</title>
+    <link>http://localhost:1313/tags/media/</link>
+    <description>Recent content in Media on Sreyasi&#39;s Blog</description>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Nov 2024 21:01:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portrayal of Women in Media and Women&#39;s Careeser Choices</title>
+      <link>http://localhost:1313/posts/portrayal-of-women-in-media-and-womens-careeser-choic/</link>
+      <pubDate>Mon, 18 Nov 2024 21:01:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/portrayal-of-women-in-media-and-womens-careeser-choic/</guid>
+      <description>An analysis of the portrayal of women in Indian media and its impact on career choices.</description>
+    </item>
+  </channel>
+</rss>

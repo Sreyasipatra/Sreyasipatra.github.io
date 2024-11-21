@@ -28,8 +28,6 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
 
-# Trapped in The Twelve Houses
-
 ## How to know if it’s fake?
 Astrology is always fake, a scam. It has no definite proof of working. Generalised statements with narrative manipulation is what makes it seem real. For example, someone avoids an accident by an inch. An astrologer may say, it is a sign of bad luck. They may also say that the person is lucky to have survived. It depends on what will serve the purpose.
 

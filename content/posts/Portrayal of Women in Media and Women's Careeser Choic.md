@@ -1,5 +1,5 @@
 ---
-title: "Portrayal of Women in Media and Women's Careeser Choices"
+title: "Portrayal of Women in Media and Women's Career Choices"
 date: 2024-11-18T21:01:00
 draft: false
 tags: ["Woman", "media"]
